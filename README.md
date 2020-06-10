@@ -45,7 +45,7 @@
 ***
 
 #### Item: Rolex Ice
-#### Description: It dazzles your enemies and kill them
+#### Description: It deletes all Items on the screen
 <img src="bilderFuerREADME/clearEnemies.png" alt="rolex" width="200"/>
 
 ***
