@@ -56,14 +56,14 @@
 #### Description: It increases your money you can store
 ![alt text][item3]
 
-[item3]: https://raw.githubusercontent.com/reini-java/Dubai-Runner/master/dubaiRunnerGame/rsc/items/doubleMoney.png "Safe"
+[item3]: https://raw.githubusercontent.com/murtin-java/Dubai-Runner/master/bilderFuerREADME/doubleMoney.png "Safe"
 ***
 
 #### Item: Coin
-#### Description: It adds x$ to your bank account
+#### Description: It adds 50$ to your bank account
 ![alt text][item4]
 
-[item4]:https://raw.githubusercontent.com/reini-java/Dubai-Runner/master/dubaiRunnerGame/rsc/coin.png "Coin"
+[item4]:https://raw.githubusercontent.com/murtin-java/Dubai-Runner/master/bilderFuerREADME/coin.png "Coin"
 ***
 
 
@@ -71,7 +71,7 @@
 #### Description: It steals 100$ from your bank account
 ![alt text][item5]
 
-[item5]:https://raw.githubusercontent.com/reini-java/Dubai-Runner/master/dubaiRunnerGame/rsc/gegner1.png "Taxes"
+[item5]:https://raw.githubusercontent.com/murtin-java/Dubai-Runner/master/bilderFuerREADME/gegner1.png "Taxes"
 ***
 
 
@@ -79,7 +79,7 @@
 #### Description: It steals 1000$ from your bank account
 ![alt text][item6]
 
-[item6]:https://raw.githubusercontent.com/reini-java/Dubai-Runner/master/dubaiRunnerGame/rsc/gegner2.png "Big Taxes"
+[item6]:https://raw.githubusercontent.com/murtin-java/Dubai-Runner/master/bilderFuerREADME/gegner2.png "Big Taxes"
 ***
 
 
@@ -106,4 +106,4 @@
 * UML
 * Jvadoc
 * Better Proposel
-* Presentation 
+* Presentation
