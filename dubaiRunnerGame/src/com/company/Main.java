@@ -10,12 +10,16 @@ public class Main {
         new Label();
         new LabelSprite();
         new LabelEnemy();
+        new LabelShoe();
         new Background();
         new PlayerMovement();
         new EnemyMovement();
+        new ShoeMovement();
         new CoinMovement();
         new SpriteAnimation();
         new GegnerKollision();
+        new ShoeKollision();
         new CoinKollision();
+
     }
 }

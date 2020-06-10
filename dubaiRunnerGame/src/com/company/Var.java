@@ -37,6 +37,9 @@ public class Var {
     static int coinsX[] = new int[5], coinsY[] = new int[5];
     static int coinSpeed[] = new int[5];
 
+    //Items
+    static int shoeX[] = new int[1], shoeY[] = new int[1];
+    static int shoeSpeed[] = new int[1];
 
     //Score
     static int score = 0;
@@ -51,7 +54,7 @@ public class Var {
     static boolean eingesammelt = false;
 
     //Images
-    static BufferedImage ib1, ib2, ib3, ib4, ib5, prinz, igegner1, igegner2, iCoin;
+    static BufferedImage ib1, ib2, ib3, ib4, ib5, prinz, igegner1, igegner2, iCoin, iShoe;
     static String[] imageArray = {
             "rsc/sprite/stand.png",
             "rsc/sprite/1.png",
@@ -115,6 +118,8 @@ public class Var {
             igegner2 = ImageIO.read(new File("rsc/gegner2.png"));
             //Coins
             iCoin = ImageIO.read(new File("rsc/coin.png"));
+            //Items
+            iShoe = ImageIO.read(new File("rsc/items/speedBoost.png"));
         } catch (IOException e) {
             e.printStackTrace();
             System.out.println("Bilder konnten nicht geladen werden.");

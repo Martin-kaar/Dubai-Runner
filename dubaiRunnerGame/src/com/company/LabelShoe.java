@@ -3,7 +3,7 @@ package com.company;
 import javax.swing.*;
 import java.awt.*;
 
-public class LabelEnemy extends JLabel {
+public class LabelShoe extends JLabel {
 
     protected void paintComponent(Graphics g) {
 
@@ -17,20 +17,17 @@ public class LabelEnemy extends JLabel {
             if (Var.guthaben <= 0) {
 
             } else {
-                //Gegner
-                for (int i = 0; i < 5; i++) {
-                    g.drawImage(Var.igegner1, Var.gegnerX[i], Var.gegnerY[i], 75, 75, null);
+                //Shoe
+                for (int i = 0; i < 1; i++) {
+                    g.drawImage(Var.iShoe, Var.shoeX[i], Var.shoeY[i], 75, 75, null);
 
                 }
-
-                g.drawImage(Var.igegner2, Var.gegnerX[5], Var.gegnerY[5], 75, 75, null);
-
             }
+
             repaint();
-        } else {
+        }else {
 
         }
-
 
     }
 }
