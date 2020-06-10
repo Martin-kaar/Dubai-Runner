@@ -56,7 +56,7 @@
 #### Description: It increases your money you can store
 ![alt text][item3]
 
-[item3]: https://raw.githubusercontent.com/reini-java/Dubai-Runner/master/dubaiRunnerGame/rsc/items/doubleMoney.png "Ssafe"
+[item3]: https://raw.githubusercontent.com/reini-java/Dubai-Runner/master/dubaiRunnerGame/rsc/items/doubleMoney.png "Safe"
 ***
 
 #### Item: Coin
@@ -85,20 +85,25 @@
 
 
 
-| Date        |       time           | Subject               |   Period of Time         |
-| ------------- |:----------------:|:-----------------------:|:-------------------:|
-| 28.04.2020   |  15:50 - 17:30   | Planing and finding theme|   1h 40min
-| 29.04.2020 |    13:50 -   15:30| Graphic design, background and running | 1h 40min|
-| 29.04.2020 |    18:00 -   21:30| running animation anf fixing background animation| 3h 30min|
-| 30.04.2020 |    20:00 - 00:00 |jumping animation| 4h|
-| 01.05.2020 |    9:00 -  13:40|Fixing jumping animation and creating slide animation|4h 40min    |
-| 01.05.2020 |    20:00 - 00:00 |slide fixing and optimize code and adding enemies |4h|
-| 02.05.2020 |    10:15 - 12:45 |fixing enemies and adding coins | 2h 30min|
-| 02.05.2020 |   13:15 -  14:00|enemy hitboxes |45min|
+| DATE | TIME | SUBJECT | PERIOD OF TIME |
+| :-------------: | :----------------: | :-----------------------: | :-------------------: |
+| 28.04.2020 | 15:50 - 17:30 | Planing and finding theme | 1h 40min |
+| 29.04.2020 | 13:50 - 15:30 | Graphic design, background and running | 1h 40min |
+| 29.04.2020 | 18:00 - 21:30 | running animation anf fixing background animation | 3h 30min |
+| 30.04.2020 | 20:00 - 00:00 | jumping animation| 4h |
+| 01.05.2020 | 9:00 -  13:40 | Fixing jumping animation and creating slide animation|4h 40min |
+| 01.05.2020 | 20:00 - 00:00 | slide fixing and optimize code and adding enemies | 4h |
+| 02.05.2020 | 10:15 - 12:45 | fixing enemies and adding coins | 2h 30min |
+| 02.05.2020 | 13:15 - 14:00 | enemy hitboxes | 45min |
+| 05.06.2020 | 10:50 - 11:50 | optimize Proposel| 1h |
 
 ## TO-DO-List
-* Start-Screen
-* End-Screen
+* Start-Screen x
+* End-Screen x
 * Item-Functions
 * Music
 * Sound-Effects
+* UML
+* Jvadoc
+* Better Proposel
+* Presentation 
