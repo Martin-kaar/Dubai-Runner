@@ -1,12 +1,12 @@
 package com.company;
 import java.util.Timer;
 import java.util.TimerTask;
-public class ShoeKollision {
+public class ItemsKollision {
     Timer kollision;
     private int temp = 0;
 
 
-    public ShoeKollision() {
+    public ItemsKollision() {
         kollision = new Timer();
         kollision.scheduleAtFixedRate(new TimerTask() {
             @Override
@@ -21,7 +21,7 @@ public class ShoeKollision {
                                 Var.shoeX[i] = Var.screenWidth + (int) (Math.random() * (100 - 1) + 1);
                             }
                             if(Var.kollidiert){
-                                Var.shoeSpeed[i] = 4;
+                                System.out.println("Wobbin");
                             }
                             temp++;
 

@@ -1,12 +1,12 @@
 package com.company;
 import java.util.Timer;
 import java.util.TimerTask;
-public class ShoeMovement {
+public class ItemsMovement {
     Timer movement, position;
     private int temp = 0;
     private boolean check =false;
 
-    public ShoeMovement() {
+    public ItemsMovement() {
 
 
         //rechts

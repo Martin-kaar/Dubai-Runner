@@ -99,6 +99,7 @@ public class Var {
     static LabelSprite lblMarcus;
     static LabelEnemy lblEnemy;
     static LabelCoin lblCoin;
+    static LabelItems lblItems;
 
 
     //Methode
@@ -139,6 +140,8 @@ public class Var {
         coinSpeed[3] = 3;
         coinSpeed[4] = 4;
 
+        //Items
+        shoeSpeed[0] = 3;
     }
 
 
